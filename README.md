@@ -8,8 +8,8 @@ find other students with similar preferences so they can contact each other to
 meet and study with them or for them.
 
 ## System Users:
-  -Students
-  -Teachers
+  - Students
+  - Teachers
 
 ##  User Functionality
 
