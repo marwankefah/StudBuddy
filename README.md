@@ -46,10 +46,10 @@ University they go to or Their Field of Study).
  
  
 ### Installation
-  -Build the solution and execute .exe ,using MS studio or CMD
+  - Build the solution and execute .exe ,using MS studio or CMD
     ```sh
  msbuild DBapplication.sln'
     ```
-  -Start SQL server and Initiate Connection
-  -Run Script DBScript.sql to automate DB creation and Dummy Data Insertion
+  - Start SQL server and Initiate Connection
+  - Run Script DBScript.sql to automate DB creation and Dummy Data Insertion
 
